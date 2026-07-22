@@ -1,0 +1,938 @@
+[
+  {
+    "id": "b001",
+    "title": "Chức năng nhiệm vụ",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/16LGRFKzZ0L1TShGbTuKum4E9w7MsLp-Q/view?usp=sharing",
+    "updated": "2026-06-20"
+  },
+  {
+    "id": "b002",
+    "title": "VH&XLSC tổ máy",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/19GKAn2uIRgckWWBnJ_E350dWtR4dFzZk/view?usp=sharing",
+    "updated": "2025-11-02"
+  },
+  {
+    "id": "b003",
+    "title": "VH&XLSC HT ĐKTT",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/1O4YYO14o0Ll5hZ9Jdq23SVXxHKDGM7NI/view?usp=sharing",
+    "updated": "2026-05-10"
+  },
+  {
+    "id": "b004",
+    "title": "VH&XLSC tua bin thủy lực",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/1oI9bTdGx7hogCpOWQVEiiuCcsTIhO1d5/view?usp=sharing",
+    "updated": "2026-01-15"
+  },
+  {
+    "id": "b005",
+    "title": "VH&XLSC MBA chính",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/1HNWCTG-MiOxm41jGht2PacjFMUkB88AS/view?usp=sharing",
+    "updated": "2025-08-30"
+  },
+  {
+    "id": "b006",
+    "title": "VH&XLSC máy phát thủy lực",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/1k39QnAUNO5d8TGpzZqUG22_Ro3dIEdJH/view?usp=sharing",
+    "updated": "2026-04-18"
+  },
+  {
+    "id": "b007",
+    "title": "VH&XLSC HTKT",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/1E0zYuqN5gJXk57xrizcekr4XuN5xe3EJ/view?usp=sharing",
+    "updated": "2026-06-01"
+  },
+  {
+    "id": "b008",
+    "title": "VH&XLSC HT điều tốc",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/1tc54XpswnkhPl_3cM3cFosyiTuIB-asS/view?usp=sharing",
+    "updated": "2025-12-05"
+  },
+  {
+    "id": "b009",
+    "title": "VH&XLSC HT rơ le bảo vệ",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/1gWENXxJ7N5tmUhibCnQYmNCRpab7nNKg/view?usp=sharing",
+    "updated": "2026-06-20"
+  },
+  {
+    "id": "b010",
+    "title": "VH&XLSC HT tự dùng AC",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/1Mf_QhsWBjCZrkQ9_4ctXsXmDlxs1cxT9/view?usp=sharing",
+    "updated": "2025-11-02"
+  },
+  {
+    "id": "b011",
+    "title": "VH&XLSC HT tự dùng DC",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/1oNK_GPNV662VMG2-xEmU0kdbN7j0ViZe/view?usp=sharing",
+    "updated": "2026-05-10"
+  },
+  {
+    "id": "b012",
+    "title": "VH&XLSC HT dầu áp lực tua bin",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/1eZFV_fHkLehlfCq3sXvhhCB2dgqgHYAM/view?usp=sharing",
+    "updated": "2026-01-15"
+  },
+  {
+    "id": "b013",
+    "title": "VH&XLSC trạm 110kV",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/1LbbyLApwuZ6nNiKlwzoYSb4VlnQmuxdt/view?usp=sharing",
+    "updated": "2025-08-30"
+  },
+  {
+    "id": "b014",
+    "title": "VH&XLSC HT MC 110kV",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/1mQiuvJyc4GY9lMzFsW5hRQlpYi2Tmn-r/view?usp=sharing",
+    "updated": "2026-04-18"
+  },
+  {
+    "id": "b015",
+    "title": "VH&XLSC DCL 110kV",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/1e9xlV3h4jGTgJFU-48G5F8gmmwss6XaP/view?usp=sharing",
+    "updated": "2026-06-01"
+  },
+  {
+    "id": "b016",
+    "title": "VH&XLSC TU, TI, CSV 110kV",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/1PzEpmXjXPofuAvlyuEJb8u3nzUkcWski/view?usp=sharing",
+    "updated": "2025-12-05"
+  },
+  {
+    "id": "b017",
+    "title": "VH&XLSC MC 13,8kV",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/1b9ia4dyVoR1XZgO1OQWJWLMLOz5C6HYS/view?usp=sharing",
+    "updated": "2026-06-20"
+  },
+  {
+    "id": "b018",
+    "title": "VH&XLSC HT NKT",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/11PkcQ_1_nfNPnyOwdqOXG9UZWnU_bKOf/view?usp=sharing",
+    "updated": "2025-11-02"
+  },
+  {
+    "id": "b019A",
+    "title": "VH&XLSC MF Diesel DG 1000kVA",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/14IT2SpR9uDhEzVgpNBDP58bEJZmwKHEa/view?usp=sharing",
+    "updated": "2026-05-10"
+  },
+  {
+    "id": "b019B",
+    "title": "VH&XLSC MF Diesel DG1, DG2 500kVA",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/11HYsTtZdLd_Xs0HN11pUZswFTS0MiGzL/view?usp=sharing",
+    "updated": "2026-01-15"
+  },
+  {
+    "id": "b020",
+    "title": "VH&XLSC HT khí nén và máy nén khí",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/19aTLaKJxWy002jt83sDIZLe3QYPYs7lo/view?usp=sharing",
+    "updated": "2025-08-30"
+  },
+  {
+    "id": "b021",
+    "title": "VH&XLSC HT hệ thống van cầu và dầu áp lực van cầu",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/1R2orhAmqCKCiMMG8dmUhOpkKkXjCQ8V3/view?usp=sharing",
+    "updated": "2026-04-18"
+  },
+  {
+    "id": "b022A",
+    "title": "VH&XLSC trạm bơm tiêu cạn",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/1r0YBFHjyZhhhf9TbdrE_SFSy2HatLBXD/view?usp=sharing",
+    "updated": "2026-06-01"
+  },
+  {
+    "id": "b022B",
+    "title": "VH&XLSC trạm bơm rò rỉ",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/11fb1d4DFK5fYlkj-uKURr6ppRt4B4fJu/view?usp=sharing",
+    "updated": "2025-12-05"
+  },
+  {
+    "id": "b022C",
+    "title": "VH&XLSC trạm xử lý nước lẫn dầu",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/103w7H3MMPBkkx9V90yStH6FVcaelOV-L/view?usp=sharing",
+    "updated": "2025-08-30"
+  },
+  {
+    "id": "b023",
+    "title": "VH&XLSC HT báo cháy và chữa cháy",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/18-sIlKPfRiX8iILLfB8lGYsS3mZYFoHf/view?usp=sharing",
+    "updated": "2026-04-18"
+  },
+  {
+    "id": "b024",
+    "title": "VH&XLSC HT thông gió",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/1Oqu-INnflE3nNi2OEkpqw17PB9thNUrI/view?usp=sharing",
+    "updated": "2026-06-01"
+  },
+  {
+    "id": "b025",
+    "title": "VH&XLSC HT kích nâng van cung đập tràn",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/1ugM7MMML5TSc5Qi_5gQi7Ne0VFyyatm9/view?usp=sharing",
+    "updated": "2025-12-05"
+  },
+  {
+    "id": "b026",
+    "title": "VH&XLSC HT kích nâng cửa nhận nước",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/1MphPqfu5im4I7VbMRxnBMORjgre6Ztyr/view?usp=sharing",
+    "updated": "2026-04-18"
+  },
+  {
+    "id": "b027",
+    "title": "VH&XLSC HT tự dùng AC khu đầu mối",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Các quy trình vận hành và xử lý sự cố NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/16K7SKAIZrhR3J3OLDOPAgnRpeQVFUfzn/view?usp=sharing",
+    "updated": "2026-06-01"
+  },
+  {
+    "id": "b028",
+    "title": "QĐ thực hiện PCT, PTT và giấy phép làm việc trong KGHC",
+    "category": "QUY TRÌNH VẬN HÀNH VÀ XỬ LÝ SỰ CỐ",
+    "description": "Hướng dẫn thực hiện PTT, PCT, và giấy phép làm việc trong không gian hạn chế",
+    "driveLink": "https://drive.google.com/file/d/1q-txM0sS3WuenykAi_gYX8lwRteICLmM/view?usp=sharing",
+    "updated": "2025-11-28"
+  },
+ {
+    "id": "c001",
+    "title": "Sơ đồ nối điện chính",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/11Y3bb64Nil9WPHOWnee-9B7FMeM2AO8L/view?usp=sharing",
+    "updated": "2026-06-20"
+  },
+  {
+    "id": "c002",
+    "title": "Sơ đồ nguyên lý HT tự dùng AC",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1BwJCiAYfK3l7Ixa4lSF8tL9fHvq-LG_8/view?usp=sharing",
+    "updated": "2025-11-02"
+  },
+  {
+    "id": "c003",
+    "title": "Sơ đồ nguyên lý HT tự dùng AC KĐM",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1wGPiMyLFGO_oL-2zjupJvNhb3KE7z3fv/view?usp=sharing",
+    "updated": "2026-05-10"
+  },
+  {
+    "id": "c004",
+    "title": "Sơ đồ nguyên lý trạm hợp bộ",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1BkrYOOaGUSdRwnmZfskO1uCp-IT_dZbu/view?usp=sharing",
+    "updated": "2026-01-15"
+  },
+  {
+    "id": "c005",
+    "title": "Sơ đồ phân phối tủ GDB1",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/10N643rDdBB_4-o22W9d3Y9NFyMk0ZR2c/view?usp=sharing",
+    "updated": "2025-08-30"
+  },
+  {
+    "id": "c006",
+    "title": "Sơ đồ phân phối tủ GDB2",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/17QtqgRLuflaiU5DZwkxDCVFxhgFz5O2Q/view?usp=sharing",
+    "updated": "2026-04-18"
+  },
+  {
+    "id": "c007",
+    "title": "Sơ đồ phân phối tủ GDB3",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1yNOqqkwI2BV3y5MTqLGINEXQ0fFXlvbK/view?usp=sharing",
+    "updated": "2026-06-01"
+  },
+  {
+    "id": "c008",
+    "title": "Sơ đồ phân phối tủ GDB3",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1Pkw--1rpO7PtybDcE96FuRmeW3EUAlnc/view?usp=sharing",
+    "updated": "2025-12-05"
+  },
+  {
+    "id": "c009",
+    "title": "Sơ đồ phân phối tủ GDB3",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1CPAaRWRRpv899y9avnjryE_Gl17sRniE/view?usp=sharing",
+    "updated": "2026-06-20"
+  },
+  {
+    "id": "c010",
+    "title": "Sơ đồ phân phối tủ GDB4",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1P4pWcQ15mpYcxtRKAgFSfMcweG0Vp0U4/view?usp=sharing",
+    "updated": "2025-11-02"
+  },
+  {
+    "id": "c011",
+    "title": "Sơ đồ phân phối tủ GDB5",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1AIf7TeLplB_QDYoWz-A3PpEGHPtFDMeY/view?usp=sharing",
+    "updated": "2026-05-10"
+  },
+  {
+    "id": "c012",
+    "title": "Sơ đồ phân phối tủ GDB6",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1zNti9kze1lvOJIb-Qq0yQFwD6jikETgn/view?usp=sharing",
+    "updated": "2026-01-15"
+  },
+  {
+    "id": "c013",
+    "title": "Sơ đồ nguyên lý HT DC",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1djPwTY49B3tyaWLhJit6kts-q5dw1w05/view?usp=sharing",
+    "updated": "2025-08-30"
+  },
+  {
+    "id": "c014",
+    "title": "Sơ đồ nguyên lý HT UPS",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1zxbD6NfvLqmjzjqoQWbSEMSz_otuKeUI/view?usp=sharing",
+    "updated": "2026-04-18"
+  },
+  {
+    "id": "c015",
+    "title": "Sơ đồ phụ tải DC",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1lvQVcq91UcuvO9VToJNGoczgUwVV_BJd/view?usp=sharing",
+    "updated": "2026-06-01"
+  },
+  {
+    "id": "c016",
+    "title": "Sơ đồ phụ tải UPS1",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1NKZrU3ohmilzHByP4MIws9h2EotHSnoH/view?usp=sharing",
+    "updated": "2025-12-05"
+  },
+  {
+    "id": "c017",
+    "title": "Sơ đồ phụ tải UPS2",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1aUuKAQaJfRtCDpKJlCWpg7fZJa_ivF6u/view?usp=sharing",
+    "updated": "2026-06-20"
+  },
+  {
+    "id": "c018",
+    "title": "Sơ đồ phụ tải 1APG3",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1UrHK_hj8irl4ui-Z03aCOdPlTPIf1R2Z/view?usp=sharing",
+    "updated": "2025-11-02"
+  },
+  {
+    "id": "c019",
+    "title": "Sơ đồ phụ tải 2APG3",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/17NgLbsGh38xrFHGUagHSDE08imUy0Tm2/view?usp=sharing",
+    "updated": "2026-05-10"
+  },
+  {
+    "id": "c020",
+    "title": "Sơ đồ phụ tải APDC5",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1pGa0s_kPITPTrXrma8_Mj6iiTay2frW2/view?usp=sharing",
+    "updated": "2026-01-15"
+  },
+  {
+    "id": "c021",
+    "title": "Sơ đồ phụ tải APDC6",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1rA9oak9LPLshTqWQ1iHT4_CNFDmlQNZh/view?usp=sharing",
+    "updated": "2025-08-30"
+  },
+  {
+    "id": "c022",
+    "title": "Sơ đồ nguyên lý HTKT",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1hwggR-6VXk1BRWmZgYhojWUdKCNxh6AT/view?usp=sharing",
+    "updated": "2026-04-18"
+  },
+  {
+    "id": "c023",
+    "title": "Sơ đồ nguồn HTKT",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1OJIQ5nf_05p8s7ZWIsAC6ZtMpZb5SvhL/view?usp=sharing",
+    "updated": "2026-06-01"
+  },
+  {
+    "id": "c024",
+    "title": "Sơ đồ nguồn HT điều tốc",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/10FMm3UzfZtxJATZupkXGQ3mxmoJbnm3Y/view?usp=sharing",
+    "updated": "2025-12-05"
+  },
+  {
+    "id": "c025",
+    "title": "Sơ đồ nguyên lý HT rơ le",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/15XeIQQXIqIxTdJ0m10Cuh1PmtBZqpB6o/view?usp=sharing",
+    "updated": "2025-08-30"
+  },
+  {
+    "id": "c026",
+    "title": "Sơ đồ logic bảo vệ tủ GPR-A",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/19Iwe8DUiOdr0fp0GpgsMpcBuMD3bbiY5/view?usp=sharing",
+    "updated": "2026-04-18"
+  },
+  {
+    "id": "c027",
+    "title": "Sơ đồ logic bảo vệ tủ GPR-A",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1s_j15-s2RnVaiJjo-OnhB2o5WRjECuXJ/view?usp=sharing",
+    "updated": "2026-06-01"
+  },
+  {
+    "id": "c028",
+    "title": "Sơ đồ logic bảo vệ tủ GPR-B",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1XLyL_LSs2E2QifIptGOTpv66UZD_v3iA/view?usp=sharing",
+    "updated": "2025-12-05"
+  },
+  {
+    "id": "c029",
+    "title": "Sơ đồ logic bảo vệ tủ GPR-C",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1ujrp_C5k919fS7KpBcNHNgfknPjUmh0Y/view?usp=sharing",
+    "updated": "2026-04-18"
+  },
+  {
+    "id": "c030",
+    "title": "Sơ đồ logic bảo vệ tủ GPR-C",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1-NeSy5tiZinBSZux6Lv5rUBhkL0osJOJ/view?usp=sharing",
+    "updated": "2026-06-01"
+  },
+  {
+    "id": "c031",
+    "title": "Sơ đồ logic bảo vệ tủ BPR",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1-NeSy5tiZinBSZux6Lv5rUBhkL0osJOJ/view?usp=sharing",
+    "updated": "2025-12-05"
+  },
+{
+    "id": "c032",
+    "title": "Sơ đồ logic bảo vệ tủ LPR-A",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1jH4ppld8izbWG9mOUPRrkD_r7Qn5B033/view?usp=sharing",
+    "updated": "2026-06-20"
+  },
+  {
+    "id": "c033",
+    "title": "Sơ đồ logic bảo vệ tủ LPR-B",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1mJJ_Aj6qOneJrU1WAjzAjBTsbk7Gngm3/view?usp=sharing",
+    "updated": "2025-11-02"
+  },
+  {
+    "id": "c034",
+    "title": "Sơ đồ nguyên lý HT DCS",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/11x_pjgwzqy4a4Rstn5G7gz58TzdqsfuZ/view?usp=sharing",
+    "updated": "2026-05-10"
+  },
+  {
+    "id": "c035",
+    "title": "Sơ đồ nguyên lý HT MNK cao áp",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1_jvSwQY7wOdF_XG5WZ0JySdjm0u0-Bk3/view?usp=sharing",
+    "updated": "2026-01-15"
+  },
+  {
+    "id": "c036",
+    "title": "Sơ đồ nguyên lý HT MNK thấp áp",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/187sBV7D8Lzk-ikzzZRm4_31cXVFqdTqz/view?usp=sharing",
+    "updated": "2025-08-30"
+  },
+  {
+    "id": "c037",
+    "title": "Sơ đồ nguyên lý HT phanh",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1g2q23xfQUmMhKbD6iC_f1QmkjspGeuMk/view?usp=sharing",
+    "updated": "2026-04-18"
+  },
+  {
+    "id": "c038",
+    "title": "Sơ đồ nguyên lý HT đệm chèn",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/13In5KtoMYm3b48IiwJif_c6_ejn5tK4F/view?usp=sharing",
+    "updated": "2026-06-01"
+  },
+  {
+    "id": "c039",
+    "title": "Sơ đồ nguyên lý HT NKT",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1CUH334QVkQD-ytAXmDlC7YzGmg3JSn05/view?usp=sharing",
+    "updated": "2025-12-05"
+  },
+  {
+    "id": "c040",
+    "title": "Sơ đồ nguyên lý HT NCC",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1jYX0gVXrWHhN4BJgKNpYAGH_0j4gFBT5/view?usp=sharing",
+    "updated": "2026-06-20"
+  },
+  {
+    "id": "c041",
+    "title": "Sơ đồ nguyên lý trạm bơm rò rỉ",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/11Cr1h1iYpsTcOcuvumvlqnKXDWHdkEfI/view?usp=sharing",
+    "updated": "2025-11-02"
+  },
+  {
+    "id": "c042",
+    "title": "Sơ đồ nguyên lý trạm bơm tiêu cạn",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/10UWWHVaulSuXJ3esxcYVVJQuUKuLpBcJ/view?usp=sharing",
+    "updated": "2026-05-10"
+  },
+  {
+    "id": "c043",
+    "title": "Sơ đồ nguyên lý HT cấp dầu",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1ZxCRxTH4xiULR0KON0a1V3JPM6pq7LNH/view?usp=sharing",
+    "updated": "2026-01-15"
+  },
+  {
+    "id": "c044",
+    "title": "Sơ đồ nguyên lý HT đo lường tua bin",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1kXcRfA7W7sPXE2JT8fkE8EPqgQMC_PVl/view?usp=sharing",
+    "updated": "2025-08-30"
+  },
+  {
+    "id": "c045",
+    "title": "Sơ đồ nguyên lý HT van cầu",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1JK4TA4kbliaUr3QO-kOBvvBvcOm0ddMB/view?usp=sharing",
+    "updated": "2026-04-18"
+  },
+  {
+    "id": "c046",
+    "title": "Sơ đồ nguyên lý HT điều tốc",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1vtnzbZ_eodBTL3pleUAVCxZ_1uyMdnhj/view?usp=sharing",
+    "updated": "2026-06-01"
+  },
+  {
+    "id": "c047",
+    "title": "Sơ đồ nguyên lý HT dầu áp lực tua bin",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1mhqe0Dbz1HCfOiJLweeBLmGKoTTrH5yo/view?usp=sharing",
+    "updated": "2025-12-05"
+  },
+  {
+    "id": "c048",
+    "title": "Sơ đồ nguyên lý HT kích nâng CNN",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1bG73Tgq79dyZ2BpQ_v3WtGyDlzQg-nHU/view?usp=sharing",
+    "updated": "2026-06-20"
+  },
+  {
+    "id": "c049",
+    "title": "Sơ đồ nguyên lý HT kích nâng van cung ĐT",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1UqS1FRW3-qJGXba7Rxtlpxt757f2T3XF/view?usp=sharing",
+    "updated": "2025-11-02"
+  },
+  {
+    "id": "c050",
+    "title": "Sơ đồ phụ mặt cắt dọc tổ máy",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1ASEHG5ihMw44dyOj88ssTNG4Rt7PbgZa/view?usp=sharing",
+    "updated": "2026-05-10"
+  },
+  {
+    "id": "c051",
+    "title": "Sơ đồ mặt cắt dọc máy phát",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1LKPpbIZkgNouvNwtT4t6FdQ_lne1PEM1/view?usp=sharing",
+    "updated": "2026-01-15"
+  },
+{
+    "id": "c052",
+    "title": "Sơ đồ dầu sự cố MBA",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Các sơ đồ vận hành NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1qQJUTyQhD2MWWJvqwfDN6xoRBvEvc2f5/view?usp=sharing",
+    "updated": "2026-01-15"
+  },
+{
+    "id": "c053",
+    "title": "Quyết định ban hành sơ đồ vận hành",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Quyết định ban hành các sơ đồ vận hành NMTĐ Đakđrinh.",
+    "driveLink": "https://drive.google.com/file/d/1MXTXgEmcpy-6Z2-xbx4gclAbN56DZvHy/view?usp=sharing",
+    "updated": "2026-01-15"
+  },
+{
+    "id": "d001",
+    "title": "Đề cương đáp án thi nâng bậc chức danh trưởng ca - trực ĐKTT",
+    "category": "ĐỀ CƯƠNG ĐÁP ÁN THI NÂNG BẬC CÁC CHỨC DANH",
+    "description": "Đề cương đáp án thi nâng bậc các chức danh vận hành",
+    "driveLink": "https://drive.google.com/file/d/1mZNY1rU1SppKbw22ZKj0fPKXexTqLXzr/view?usp=sharing",
+    "updated": "2024-10-02"
+  },
+  {
+    "id": "d002",
+    "title": "Đề cương đáp án thi nâng bậc chức danh trực điện",
+    "category": "ĐỀ CƯƠNG ĐÁP ÁN THI NÂNG BẬC CÁC CHỨC DANH",
+    "description": "Đề cương đáp án thi nâng bậc các chức danh vận hành",
+    "driveLink": "https://drive.google.com/file/d/1dfcSXqoyM-mlJDeFSb6ZqkuZbQsEBPxh/view?usp=sharing",
+    "updated": "2024-10-02"
+  },
+  {
+    "id": "d003",
+    "title": "Đề cương đáp án thi nâng bậc chức danh trực cơ",
+    "category": "ĐỀ CƯƠNG ĐÁP ÁN THI NÂNG BẬC CÁC CHỨC DANH",
+    "description": "Đề cương đáp án thi nâng bậc các chức danh vận hành",
+    "driveLink": "https://drive.google.com/file/d/1B93jIxL_5D3L_8idXo2d_j3aE5YkP90O/view?usp=sharing",
+    "updated": "2024-10-02"
+  },
+{
+    "id": "d004",
+    "title": "Đề cương đáp án thi nâng bậc chức danh trực ĐT-CNN",
+    "category": "ĐỀ CƯƠNG ĐÁP ÁN THI NÂNG BẬC CÁC CHỨC DANH",
+    "description": "Đề cương đáp án thi nâng bậc các chức danh vận hành",
+    "driveLink": "https://drive.google.com/file/d/19PflQiLkJCfYLMSGuiHZKNoHNnuIqn4U/view?usp=sharing",
+    "updated": "2024-10-02"
+  },
+{
+    "id": "e001",
+    "title": "QT điều độ - vận hành - XLSC HTĐ",
+    "category": "QUY TRÌNH VẬN HÀNH HỆ THỐNG ĐIỆN QUỐC GIA",
+    "description": "QT điều độ, vận hành, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia",
+    "driveLink": "https://drive.google.com/file/d/1JAyWNtWhuEFkjGKqoTK-2RFg9G7dWEkw/view?usp=sharing",
+    "updated": "2025-02-01"
+  },
+  {
+    "id": "e002",
+    "title": "Quy định HTĐ phân phối",
+    "category": "QUY TRÌNH VẬN HÀNH HỆ THỐNG ĐIỆN QUỐC GIA",
+    "description": "Các quy trình vận hành hệ thống điện Quốc gia",
+    "driveLink": "https://drive.google.com/file/d/1uCMq_azpNp8x3gzH9HCtF7KDRT9gQV_m/view?usp=sharing",
+    "updated": "2015-11-18"
+  },
+  {
+    "id": "e003",
+    "title": "Quy định HTĐ truyền tải",
+    "category": "QUY TRÌNH VẬN HÀNH HỆ THỐNG ĐIỆN QUỐC GIA",
+    "description": "Các quy trình vận hành hệ thống điện Quốc gia",
+    "driveLink": "https://drive.google.com/file/d/160seQ1dftvj7kz_7b2OUHBbck9U8xlom/view?usp=sharing",
+    "updated": "2016-11-30"
+  },
+{
+    "id": "e004",
+    "title": "QT điều độ HTĐ Quốc gia",
+    "category": "QUY TRÌNH VẬN HÀNH HỆ THỐNG ĐIỆN QUỐC GIA",
+    "description": "Các quy trình vận hành hệ thống điện Quốc gia",
+    "driveLink": "https://drive.google.com/file/d/1pp9ut0uZMOYaPqevZUUWhWlhMiKrK-7l/view?usp=sharing",
+    "updated": "2014-11-05"
+  },
+{
+    "id": "e005",
+    "title": "QT thao tác HTĐ Quốc gia",
+    "category": "QUY TRÌNH VẬN HÀNH HỆ THỐNG ĐIỆN QUỐC GIA",
+    "description": "Các quy trình vận hành hệ thống điện Quốc gia",
+    "driveLink": "https://drive.google.com/file/d/1PPRDIC2R-JJ_zvPItepoJPYJTK2LE69W/view?usp=sharing",
+    "updated": "2014-11-28"
+  },
+  {
+    "id": "e006",
+    "title": "QT XLSC HTĐ Quốc gia",
+    "category": "QUY TRÌNH VẬN HÀNH HỆ THỐNG ĐIỆN QUỐC GIA",
+    "description": "Các quy trình vận hành hệ thống điện Quốc gia",
+    "driveLink": "https://drive.google.com/file/d/1YOkTvch-cM28cMWCCvd_HYU3HoWU4jtm/view?usp=sharing",
+    "updated": "2014-09-15"
+  },
+  {
+    "id": "e007",
+    "title": "TT sửa đổi TT 28, 40, 44",
+    "category": "QUY TRÌNH VẬN HÀNH HỆ THỐNG ĐIỆN QUỐC GIA",
+    "description": "Các quy trình vận hành hệ thống điện Quốc gia",
+    "driveLink": "https://drive.google.com/file/d/1NQIEFqHFxtGJtIQ5mvHFEtTBxdgtpDS0/view?usp=sharing",
+    "updated": "2019-11-18"
+  },
+{
+    "id": "e008",
+    "title": "TT sửa đổi TT 25, 39",
+    "category": "QUY TRÌNH VẬN HÀNH HỆ THỐNG ĐIỆN QUỐC GIA",
+    "description": "Các quy trình vận hành hệ thống điện Quốc gia",
+    "driveLink": "https://drive.google.com/file/d/1yLTWwgclqYwKyryBewlD3X1VR1o06tG6/view?usp=sharing",
+    "updated": "2019-11-18"
+  },
+{
+    "id": "f001",
+    "title": "QĐ vận hành thị trường bán buôn điện cạnh tranh",
+    "category": "QUY TRÌNH VẬN HÀNH THỊ TRƯỜNG ĐIỆN",
+    "description": "Các quy trình vận hành thị trường điện Quốc gia",
+    "driveLink": "https://drive.google.com/file/d/1gyC1ijvIXUZY3s76YV-ORzWaihm6LSDU/view?usp=sharing",
+    "updated": "2025-02-01"
+  },
+{
+    "id": "f002",
+    "title": "QĐ vận hành thị trường bán buôn điện cạnh tranh",
+    "category": "QUY TRÌNH VẬN HÀNH THỊ TRƯỜNG ĐIỆN",
+    "description": "Các quy trình vận hành thị trường điện Quốc gia",
+    "driveLink": "https://drive.google.com/file/d/1cLDX_t4uQ6z60MnXtn6yN3Gb7MB2-SFq/view?usp=sharing",
+    "updated": "2026-06-02"
+  },
+{
+    "id": "g001",
+    "title": "Mẫu BB khảo sát hiện trường",
+    "category": "BIỂU MẪU",
+    "description": "Các biểu mẫu phục vụ công tác vận hành",
+    "driveLink": "https://drive.google.com/file/d/1ACau5Rq9AvfAKFlBC5U1sDsKuZrQjGr1/view?usp=sharing",
+    "updated": "2025-02-01"
+  },
+{
+    "id": "g002",
+    "title": "Mẫu đơn nghỉ phép",
+    "category": "BIỂU MẪU",
+    "description": "Các biểu mẫu phục vụ công tác vận hành",
+    "driveLink": "https://drive.google.com/file/d/19uT_KlHW9a21Z_ZnFzU5nWkr64dmeROt/view?usp=sharing",
+    "updated": "2026-06-02"
+  },
+{
+    "id": "g003",
+    "title": "Mẫu giấy phép làm việc trong KGHC",
+    "category": "BIỂU MẪU",
+    "description": "Các biểu mẫu phục vụ công tác vận hành",
+    "driveLink": "https://drive.google.com/file/d/1aI03-mcf_JSMLN4w1g0YDJAA3jdPTIYl/view?usp=sharing",
+    "updated": "2025-02-01"
+  },
+{
+    "id": "g004",
+    "title": "Mẫu sổ lệnh công tác",
+    "category": "BIỂU MẪU",
+    "description": "Các biểu mẫu phục vụ công tác vận hành",
+    "driveLink": "https://drive.google.com/file/d/1erJnTz5qhlV3psl9E2TPHq3D3TT-Gcvl/view?usp=sharing",
+    "updated": "2026-06-02"
+  },
+{
+    "id": "g005",
+    "title": "Phiếu thay người chỉ huy trực tiếp",
+    "category": "BIỂU MẪU",
+    "description": "Các biểu mẫu phục vụ công tác vận hành",
+    "driveLink": "https://drive.google.com/file/d/1QFuoipTs_Vdf7ezlm24D8GvR5A1-sI5E/view?usp=sharing",
+    "updated": "2025-02-01"
+  },
+{
+    "id": "g006",
+    "title": "Phiếu thay người giám sát an toàn",
+    "category": "BIỂU MẪU",
+    "description": "Các biểu mẫu phục vụ công tác vận hành",
+    "driveLink": "https://drive.google.com/file/d/10ctbhUvTbgfteyApPnG0IqLqgU9vKAZ2/view?usp=sharing",
+    "updated": "2026-06-02"
+  },
+{
+    "id": "g007",
+    "title": "Phụ lục 5",
+    "category": "BIỂU MẪU",
+    "description": "Các biểu mẫu phục vụ công tác vận hành",
+    "driveLink": "https://drive.google.com/file/d/1_XLA-UKMTTH--nr42hJxNTIyV_Btyg5O/view?usp=sharing",
+    "updated": "2025-02-01"
+  },
+{
+    "id": "g008",
+    "title": "Mẫu PTT",
+    "category": "BIỂU MẪU",
+    "description": "Các biểu mẫu phục vụ công tác vận hành",
+    "driveLink": "https://docs.google.com/document/d/1hyPvELCuhVMbQOYxWxCg01liQDVFn7DK/edit?usp=sharing&ouid=105739751954633723355&rtpof=true&sd=true",
+    "updated": "2026-06-02"
+  },
+{
+    "id": "g009",
+    "title": "Mẫu báo cáo nhanh sự cố",
+    "category": "BIỂU MẪU",
+    "description": "Các biểu mẫu phục vụ công tác vận hành",
+    "driveLink": "https://docs.google.com/document/d/1YsBtQkj0BGjEccrlW7KUa-fpNKzWz2mc/edit?usp=sharing&ouid=105739751954633723355&rtpof=true&sd=true",
+    "updated": "2025-02-01"
+  },
+{
+    "id": "g010",
+    "title": "Mẫu đăng ký diễn tập PCCC",
+    "category": "BIỂU MẪU",
+    "description": "Các biểu mẫu phục vụ công tác vận hành",
+    "driveLink": "https://docs.google.com/document/d/1ufkL9RljGDCocKGyvamRSV7100NcFm4O/edit?usp=sharing&ouid=105739751954633723355&rtpof=true&sd=true",
+    "updated": "2026-06-02"
+  },
+{
+    "id": "g011",
+    "title": "Mẫu đăng ký diễn tập XLSC",
+    "category": "BIỂU MẪU",
+    "description": "Các biểu mẫu phục vụ công tác vận hành",
+    "driveLink": "https://docs.google.com/document/d/1OL3z9GexOHbxEpmdxe6ssbHRa4YbniLY/edit?usp=sharing&ouid=105739751954633723355&rtpof=true&sd=true",
+    "updated": "2025-02-01"
+  },
+{
+    "id": "g012",
+    "title": "Mẫu PCT",
+    "category": "BIỂU MẪU",
+    "description": "Các biểu mẫu phục vụ công tác vận hành",
+    "driveLink": "https://drive.google.com/file/d/1g3oyQOmKWnXjlIGdo-d6RjJ40tSuGuR8/view?usp=sharing",
+    "updated": "2026-06-02"
+  },
+{
+    "id": "g013",
+    "title": "Mẫu báo cáo sự cố",
+    "category": "BIỂU MẪU",
+    "description": "Các biểu mẫu phục vụ công tác vận hành",
+    "driveLink": "https://docs.google.com/document/d/1m79BU6XQu-2bm8BfBCjxzqc994A0Ppqe/edit?usp=sharing&ouid=105739751954633723355&rtpof=true&sd=true",
+    "updated": "2014-09-15"
+  },
+{
+    "id": "g014",
+    "title": "Mẫu báo cáo phân tích sự cố",
+    "category": "BIỂU MẪU",
+    "description": "Các biểu mẫu phục vụ công tác vận hành",
+    "driveLink": "https://docs.google.com/document/d/1P19UIIVA_EyKLTbGcDpus-nDl6dA9SbH/edit?usp=sharing&ouid=105739751954633723355&rtpof=true&sd=true",
+    "updated": "2014-09-15"
+  },
+{
+    "id": "h001",
+    "title": "Luật điện lực 2024",
+    "category": "VĂN BẢN PHÁP LUẬT",
+    "description": "Văn bản pháp luật liên quan đến ngành điện",
+    "driveLink": "https://drive.google.com/file/d/196oJLlaqFqqu2og5iIBW5hldF-lA2zRp/view?usp=sharing",
+    "updated": "2024-11-30"
+  },
+{
+    "id": "i001",
+    "title": "Quy trình điều tiết liên hồ sông Trà Khúc",
+    "category": "QUY TRÌNH KHÁC",
+    "description": "Các quy trình khác",
+    "driveLink": "https://drive.google.com/file/d/1w3U-V7CKtcmyF-14VAGvtBpSMxY5gh-e/view?usp=sharing",
+    "updated": "2018-07-25"
+  },
+{
+    "id": "i002",
+    "title": "Quy trình vận hành hồ chứa NMTĐ Đakđrinh",
+    "category": "QUY TRÌNH KHÁC",
+    "description": "Các quy trình khác",
+    "driveLink": "https://drive.google.com/file/d/1BKKRdMGpYwXRzgeVeUzBYuRkGK2eWtd5/view?usp=sharing",
+    "updated": "2024-06-11"
+  },
+{
+    "id": "j001",
+    "title": "Các QĐ của DHC",
+    "category": "CÁC QUYẾT ĐỊNH CỦA DHC",
+    "description": "Các QĐ của DHC",
+    "driveLink": "",
+    "updated": "2024-06-11"
+  },
+{
+    "id": "k001",
+    "title": "Các tài liệu khác",
+    "category": "CÁC TÀI LIỆU KHÁC",
+    "description": "Các tài liệu khác liên quan đến công tác vận hành NM",
+    "driveLink": "",
+    "updated": "2024-06-11"
+  }
+]
