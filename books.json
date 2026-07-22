@@ -781,19 +781,18 @@
     "category": "QUY TRÌNH VẬN HÀNH THỊ TRƯỜNG ĐIỆN",
     "description": "Các quy trình vận hành thị trường điện Quốc gia",
     "driveLink": "https://drive.google.com/file/d/1gyC1ijvIXUZY3s76YV-ORzWaihm6LSDU/view?usp=sharing",
-    "updated": "2025-02-01",
-    "isNew": true
+    "updated": "2025-02-01"
   },
-{
+  {
     "id": "f002",
     "title": "QĐ vận hành thị trường bán buôn điện cạnh tranh",
     "category": "QUY TRÌNH VẬN HÀNH THỊ TRƯỜNG ĐIỆN",
     "description": "Các quy trình vận hành thị trường điện Quốc gia",
     "driveLink": "https://drive.google.com/file/d/1cLDX_t4uQ6z60MnXtn6yN3Gb7MB2-SFq/view?usp=sharing",
-    "updated": "2026-06-02"
+    "updated": "2026-06-02",
     "isNew": true
   },
-{
+  {
     "id": "g001",
     "title": "Mẫu BB khảo sát hiện trường",
     "category": "BIỂU MẪU",
