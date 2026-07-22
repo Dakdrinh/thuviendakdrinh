@@ -929,14 +929,6 @@
   },
 {
     "id": "j001",
-    "title": "Các QĐ của DHC",
-    "category": "CÁC QUYẾT ĐỊNH CỦA DHC",
-    "description": "Các QĐ của DHC",
-    "driveLink": "",
-    "updated": "2024-06-11"
-  },
-{
-    "id": "k001",
     "title": "Tổng quan NMTĐ Đakđrinh",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Tổng quan NMTĐ Đakđrinh",
@@ -944,7 +936,7 @@
     "updated": "2015-03-21"
   },
   {
-    "id": "k002",
+    "id": "j002",
     "title": "Nguồn cấp đến các phụ tải quan trọng",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Bảng thống kê nguồn cấp đến các phụ tải quan trọng của nhà máy",
@@ -952,7 +944,7 @@
     "updated": "2024-07-22"
   },
   {
-    "id": "k003",
+    "id": "j003",
     "title": "Logic các tuần tự tổ máy",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Các logic các tuần tự tổ máy",
@@ -960,7 +952,7 @@
     "updated": "2024-07-22"
   },
   {
-    "id": "k004",
+    "id": "j004",
     "title": "Điều kiện liên động MC, DCL, DTĐ",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Các điều kiện liên động MC, DCL, DTĐ",
@@ -968,7 +960,7 @@
     "updated": "2024-07-22"
   },
   {
-    "id": "k005",
+    "id": "j005",
     "title": "Hướng dẫn vận hành tủ FACP",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Hướng dẫn vận hành tủ báo cháy trung tâm",
@@ -976,7 +968,7 @@
     "updated": "2024-07-22"
   },
   {
-    "id": "k006",
+    "id": "j006",
     "title": "Nguồn hợp bộ MC đầu cực",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Nguồn hợp bộ MC 13,8kV",
@@ -984,7 +976,7 @@
     "updated": "2024-07-22"
   },
   {
-    "id": "k007",
+    "id": "j007",
     "title": "Phiếu chỉnh định rơ le năm 2022",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Phiếu chỉnh định rơ le năm 2022",
@@ -992,7 +984,7 @@
     "updated": "2022-12-01"
   },
   {
-    "id": "k008",
+    "id": "j008",
     "title": "Phiếu chỉnh định rơ le năm 2023",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Phiếu chỉnh định rơ le năm 2023",
@@ -1000,7 +992,7 @@
     "updated": "2023-11-10"
   },
   {
-    "id": "k009",
+    "id": "j009",
     "title": "Phiếu chỉnh định rơ le năm 2023",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Phiếu chỉnh định rơ le năm 2023",
@@ -1008,7 +1000,7 @@
     "updated": "2023-04-24"
   },
   {
-    "id": "k010",
+    "id": "j010",
     "title": "QĐ phê duyệt chức danh trong PCT, PTT, GPLV trong KGHC",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "QĐ phê duyệt chức danh trong PCT, PTT, GPLV trong KGHC",
@@ -1016,7 +1008,7 @@
     "updated": "2025-11-28"
   },
   {
-    "id": "k011",
+    "id": "j011",
     "title": "QĐ đánh số thiết bị NMTĐ Đakđrinh",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "QĐ đánh số thiết bị NMTĐ Đakđrinh",
@@ -1024,7 +1016,7 @@
     "updated": "2023-03-21"
   },
   {
-    "id": "k012",
+    "id": "j012",
     "title": "Sơ đồ nhị thứ điều khiển bộ lọc NKT",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Sơ đồ nhị thứ điều khiển bộ lọc NKT",
@@ -1032,7 +1024,7 @@
     "updated": "2015-03-21"
   },
   {
-    "id": "k013",
+    "id": "j013",
     "title": "Sơ đồ điều khiển bơm dầu van cầu",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Sơ đồ điều khiển bơm dầu van cầu",
@@ -1040,7 +1032,7 @@
     "updated": "2015-03-21"
   },
   {
-    "id": "k014",
+    "id": "j014",
     "title": "Sơ đồ điều khiển hệ thống NKT",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Sơ đồ điều khiển hệ thống NKT",
@@ -1048,7 +1040,7 @@
     "updated": "2015-03-21"
   },
   {
-    "id": "k015",
+    "id": "j015",
     "title": "Sơ đồ điều khiển LCU1(2)",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Sơ đồ điều khiển LCU1(2)",
@@ -1056,7 +1048,7 @@
     "updated": "2015-03-21"
   },
   {
-    "id": "k016",
+    "id": "j016",
     "title": "Sơ đồ điều khiển LCU4",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Sơ đồ điều khiển LCU4",
@@ -1064,7 +1056,7 @@
     "updated": "2015-03-21"
   },
   {
-    "id": "k017",
+    "id": "j017",
     "title": "Sơ đồ điều khiển MC đầu cực",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Sơ đồ điều khiển hợp bộ MC 13,8kV",
@@ -1072,7 +1064,7 @@
     "updated": "2015-03-21"
   },
   {
-    "id": "k018",
+    "id": "j018",
     "title": "Sơ đồ hệ thống báo cháy",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Sơ đồ hệ thống báo cháy",
@@ -1080,7 +1072,7 @@
     "updated": "2015-03-21"
   },
   {
-    "id": "k019",
+    "id": "j019",
     "title": "Sơ đồ mạch hòa đồng bộ LCU1(2)",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Sơ đồ mạch hòa đồng bộ LCU1(2)",
@@ -1088,7 +1080,7 @@
     "updated": "2015-03-21"
   },
   {
-    "id": "k020",
+    "id": "j020",
     "title": "Sơ đồ nguồn tủ LCU1(2)",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Sơ đồ nguồn tủ LCU1(2)",
@@ -1096,7 +1088,7 @@
     "updated": "2015-03-21"
   },
   {
-    "id": "k021",
+    "id": "j021",
     "title": "Sơ đồ nguồn tủ LCU3",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Sơ đồ nguồn tủ LCU3",
@@ -1104,7 +1096,7 @@
     "updated": "2015-03-21"
   },
   {
-    "id": "k022",
+    "id": "j022",
     "title": "Sơ đồ nhị thứ MC 110kV",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Sơ đồ nhị thứ MC 110kV",
@@ -1112,7 +1104,7 @@
     "updated": "2015-03-21"
   },
   {
-    "id": "k023",
+    "id": "j023",
     "title": "Sơ đồ nhị thứ MC 13,8kV",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Sơ đồ nhị thứ MC 13,8kV",
@@ -1120,11 +1112,19 @@
     "updated": "2015-03-21"
   },
   {
-    "id": "k024",
+    "id": "j024",
     "title": "Bảng tra lưu lượng qua tràn",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Bảng tra lưu lượng qua tràn",
     "driveLink": "https://drive.google.com/file/d/1oGjMoX_tZQ42n-oBoCKBmy5mOblCbop8/view?usp=sharing",
+    "updated": "2024-06-11"
+  },
+  {
+    "id": "k001",
+    "title": "Các QĐ của DHC",
+    "category": "CÁC QUYẾT ĐỊNH CỦA DHC",
+    "description": "Các QĐ của DHC",
+    "driveLink": "",
     "updated": "2024-06-11"
   }
 ]
