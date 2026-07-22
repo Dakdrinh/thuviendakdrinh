@@ -913,7 +913,7 @@
   },
 {
     "id": "i001",
-    "title": "Quy trình điều tiết liên hồ sông Trà Khúc",
+    "title": "QT điều tiết liên hồ sông Trà Khúc",
     "category": "QUY TRÌNH KHÁC",
     "description": "Các quy trình khác",
     "driveLink": "https://drive.google.com/file/d/1w3U-V7CKtcmyF-14VAGvtBpSMxY5gh-e/view?usp=sharing",
@@ -921,7 +921,7 @@
   },
 {
     "id": "i002",
-    "title": "Quy trình vận hành hồ chứa NMTĐ Đakđrinh",
+    "title": "QT vận hành hồ chứa NMTĐ Đakđrinh",
     "category": "QUY TRÌNH KHÁC",
     "description": "Các quy trình khác",
     "driveLink": "https://drive.google.com/file/d/1lu_X8q3UpsUdKuFa7kjNM0GEmOjoXwj6/view?usp=sharing",
@@ -977,7 +977,7 @@
   },
   {
     "id": "j007",
-    "title": "Phiếu chỉnh định rơ le năm 2022",
+    "title": "Phiếu CĐ rơ le năm 2022",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Phiếu chỉnh định rơ le năm 2022",
     "driveLink": "https://drive.google.com/file/d/1mxVkilfFmj0A0BruCvkULHrdHxg4m-0U/view?usp=sharing",
@@ -985,19 +985,20 @@
   },
   {
     "id": "j008",
-    "title": "Phiếu chỉnh định rơ le năm 2023",
-    "category": "CÁC TÀI LIỆU KHÁC",
-    "description": "Phiếu chỉnh định rơ le năm 2023",
-    "driveLink": "https://drive.google.com/file/d/1lPrKX34R-Yo05CoRFAIjg1VbTyLMDNbS/view?usp=sharing",
-    "updated": "2023-11-10"
-  },
-  {
-    "id": "j009",
-    "title": "Phiếu chỉnh định rơ le năm 2023",
+    "title": "Phiếu CĐ rơ le năm 2023",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Phiếu chỉnh định rơ le năm 2023",
     "driveLink": "https://drive.google.com/file/d/1PED-Y7Whdxd7WVNAelcVxsSMZAGbeTO1/view?usp=sharing",
     "updated": "2023-04-24"
+   
+  },
+  {
+    "id": "j009",
+    "title": "Phiếu CĐ rơ le năm 2023",
+    "category": "CÁC TÀI LIỆU KHÁC",
+    "description": "Phiếu chỉnh định rơ le năm 2023",
+    "driveLink": "https://drive.google.com/file/d/1lPrKX34R-Yo05CoRFAIjg1VbTyLMDNbS/view?usp=sharing",
+    "updated": "2023-11-10"
   },
   {
     "id": "j010",
@@ -1017,7 +1018,7 @@
   },
   {
     "id": "j012",
-    "title": "Sơ đồ nhị thứ điều khiển bộ lọc NKT",
+    "title": "Sơ đồ đk bộ lọc NKT",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Sơ đồ nhị thứ điều khiển bộ lọc NKT",
     "driveLink": "https://drive.google.com/file/d/1fyOUeiP2gou62LaSNIyALfhxX8WtB2fo/view?usp=sharing",
@@ -1025,7 +1026,7 @@
   },
   {
     "id": "j013",
-    "title": "Sơ đồ điều khiển bơm dầu van cầu",
+    "title": "Sơ đồ đk bơm dầu van cầu",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Sơ đồ điều khiển bơm dầu van cầu",
     "driveLink": "https://drive.google.com/file/d/1TSWe84C5TrZyBcL0h_mKbL7HsTPYfqd7/view?usp=sharing",
@@ -1033,7 +1034,7 @@
   },
   {
     "id": "j014",
-    "title": "Sơ đồ điều khiển hệ thống NKT",
+    "title": "Sơ đồ đk hệ thống NKT",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Sơ đồ điều khiển hệ thống NKT",
     "driveLink": "https://drive.google.com/file/d/1we-R6OjnwhyIml7_PFhEwRTA1iFEM4O6/view?usp=sharing",
@@ -1041,7 +1042,7 @@
   },
   {
     "id": "j015",
-    "title": "Sơ đồ điều khiển LCU1(2)",
+    "title": "Sơ đồ đk LCU1(2)",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Sơ đồ điều khiển LCU1(2)",
     "driveLink": "https://drive.google.com/file/d/1IO6PmkA8fO5Q9LRowuwxuLQjG8L7Ii8j/view?usp=sharing",
@@ -1049,7 +1050,7 @@
   },
   {
     "id": "j016",
-    "title": "Sơ đồ điều khiển LCU4",
+    "title": "Sơ đồ đk LCU4",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Sơ đồ điều khiển LCU4",
     "driveLink": "https://drive.google.com/file/d/1oPcss9yYo0Lp2cc4DxyiEWOhV2zI1nkB/view?usp=sharing",
@@ -1057,7 +1058,7 @@
   },
   {
     "id": "j017",
-    "title": "Sơ đồ điều khiển MC đầu cực",
+    "title": "Sơ đồ đk MC đầu cực",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Sơ đồ điều khiển hợp bộ MC 13,8kV",
     "driveLink": "https://drive.google.com/file/d/1pPwarAcaCUobvbE5psE0m43HYPeb8S_C/view?usp=sharing",
@@ -1073,7 +1074,7 @@
   },
   {
     "id": "j019",
-    "title": "Sơ đồ mạch hòa đồng bộ LCU1(2)",
+    "title": "Sơ đồ mạch hòa LCU1(2)",
     "category": "CÁC TÀI LIỆU KHÁC",
     "description": "Sơ đồ mạch hòa đồng bộ LCU1(2)",
     "driveLink": "https://drive.google.com/file/d/1gezSAhUoIsTVG8H3jDJvm7Ci4S7B5XkK/view?usp=sharing",
