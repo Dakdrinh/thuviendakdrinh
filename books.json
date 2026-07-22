@@ -781,7 +781,8 @@
     "category": "QUY TRÌNH VẬN HÀNH THỊ TRƯỜNG ĐIỆN",
     "description": "Các quy trình vận hành thị trường điện Quốc gia",
     "driveLink": "https://drive.google.com/file/d/1gyC1ijvIXUZY3s76YV-ORzWaihm6LSDU/view?usp=sharing",
-    "updated": "2025-02-01"
+    "updated": "2025-02-01",
+    "isNew": true
   },
 {
     "id": "f002",
