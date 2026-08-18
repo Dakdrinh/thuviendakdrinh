@@ -337,37 +337,21 @@
 
 <!--
   =====================================================================
-  HƯỚNG DẪN THÊM / SỬA SÁCH  (v2 — dữ liệu đã tách ra file books.json)
+  TỰ ĐỘNG ĐỒNG BỘ SÁCH TỪ GOOGLE DRIVE  (v3)
   =====================================================================
-  Dữ liệu sách giờ nằm ở file riêng: books.json (đặt cùng thư mục với
-  index.html). Mở file đó lên, sao chép 1 khối { ... } bất kỳ, dán vào
-  trước dấu ] đóng mảng, rồi sửa các trường:
+  Không cần sửa books.json hay index.html nữa. Chỉ cần thêm/xóa/sửa file
+  trong thư mục Google Drive gốc, trang web sẽ tự lấy danh sách mới nhất
+  mỗi khi có người mở trang (gọi Apps Script bên dưới).
 
-    "id"          : mã duy nhất, không trùng (vd "b009")
-    "title"       : tên tài liệu hiển thị trên gáy sách và trên modal
-    "category"    : tên danh mục (sách cùng danh mục sẽ tự gom vào 1 kệ)
-    "description" : mô tả ngắn, hiện trong cửa sổ xem trước
-    "driveLink"   : link chia sẻ Google Drive của file (bật chế độ
-                    "Bất kỳ ai có đường liên kết" > "Người xem")
-    "updated"     : ngày cập nhật, định dạng "YYYY-MM-DD"
-    "isNew"       : true nếu muốn ép hiện nhãn "MỚI" (có thể bỏ trường này,
-                    hệ thống sẽ tự gắn "MỚI" cho tài liệu cập nhật trong 30 ngày gần nhất)
+    - Thư mục con trong Drive  = danh mục (kệ sách)
+    - Tên file (bỏ đuôi .pdf/.docx...) = tên sách hiển thị
+    - File để ngoài, không nằm trong thư mục con nào  -> danh mục "Khác"
 
-  Sau khi sửa xong, lưu books.json lại — không cần đụng tới index.html.
-
-  LƯU Ý QUAN TRỌNG: vì index.html giờ dùng fetch() để nạp books.json,
-  khi mở index.html bằng cách bấm đúp trực tiếp (file://) trên máy tính,
-  trình duyệt có thể chặn fetch do chính sách CORS và kệ sách sẽ trống.
-  Cách khắc phục:
-    - Chạy qua một local server nhỏ, đứng trong thư mục chứa 2 file rồi gõ:
-        python3 -m http.server 8000
-      sau đó mở http://localhost:8000/index.html
-    - Hoặc đưa cả 2 file (index.html + books.json) lên hosting tĩnh
-      (GitHub Pages, Netlify, hoặc chỗ bạn đang lưu trữ hiện tại) —
-      khi đó fetch hoạt động bình thường như trên điện thoại/di động.
+  Muốn đổi thư mục gốc hoặc chỉnh cách quét: sửa trong Apps Script
+  (Code.gs), không cần đụng tới file này.
   =====================================================================
 -->
-<!-- Dữ liệu sách đã chuyển sang file books.json, xem hướng dẫn phía trên -->
+<!-- Dữ liệu sách được nạp trực tiếp từ Google Drive qua Apps Script, xem hướng dẫn phía trên -->
 
 <script>
 (async function(){
@@ -380,18 +364,21 @@
     { name:'sand',   base:'#e0c78a', dark:'#a3894e' }
   ];
 
+  // URL Web App của Apps Script quét thư mục Drive (xem Code.gs)
+  const BOOKS_SOURCE_URL = 'https://script.google.com/macros/s/AKfycbz9rv_pQb1AHleNAN1OQB0teheupGkuToEt7QsZQWzOEgR5V2OTNDrSoyWCVkbLRH8p/exec';
+
   let books;
   try {
-    const res = await fetch('books.json', { cache: 'no-store' });
+    const res = await fetch(BOOKS_SOURCE_URL, { cache: 'no-store' });
     if (!res.ok) throw new Error('HTTP ' + res.status);
     books = await res.json();
   } catch (err) {
-    console.error('Không nạp được books.json:', err);
+    console.error('Không nạp được danh sách sách từ Drive:', err);
     document.querySelector('#shelves, main, body').insertAdjacentHTML(
       'afterbegin',
       '<div style="padding:20px;color:#f0708a;font-family:sans-serif">' +
-      '⚠️ Không tải được dữ liệu sách (books.json). Nếu bạn đang mở file trực tiếp ' +
-      '(file://), hãy chạy qua local server hoặc đưa lên hosting. Chi tiết lỗi: ' +
+      '⚠️ Không tải được danh sách sách từ Google Drive. Kiểm tra lại URL Apps Script ' +
+      'hoặc quyền truy cập thư mục Drive. Chi tiết lỗi: ' +
       String(err.message || err) + '</div>'
     );
     return;
