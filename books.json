@@ -1169,6 +1169,22 @@
     "updated": "2026-08-01"
   },
   {
+    "id": "j026",
+    "title": "Hướng dẫn cài đặt VPN NSMO",
+    "category": "CÁC TÀI LIỆU KHÁC",
+    "description": "Hướng dẫn cài đặt và cấu hình phần mềm Global Protect",
+    "driveLink": "https://drive.google.com/file/d/1aqsJHRj5JE222Uj8svnYqAelrLGCkbue/view?usp=drivesdk",
+    "updated": "2024-08-01"
+  },
+  {
+    "id": "j027",
+    "title": "Hướng dẫn cài đặt VPN PVPower",
+    "category": "CÁC TÀI LIỆU KHÁC",
+    "description": "Hướng dẫn cài đặt và cấu hình phần mềm FortiClient",
+    "driveLink": "https://drive.google.com/file/d/1e9u1SAW4tjzAgf5FPBZI5q87x02UOTKz/view?usp=drivesdk",
+    "updated": "2024-08-01"
+  },
+  {
     "id": "k001",
     "title": "Các QĐ của DHC",
     "category": "CÁC QUYẾT ĐỊNH CỦA DHC",
