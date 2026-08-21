@@ -1186,10 +1186,18 @@
   },
   {
     "id": "k001",
-    "title": "Các QĐ của DHC",
+    "title": "QĐ phê duyệt các chức danh trong PCT, PTT và GPLV trong KGHC",
     "category": "CÁC QUYẾT ĐỊNH CỦA DHC",
-    "description": "Các QĐ của DHC",
-    "driveLink": "",
-    "updated": "2024-06-11"
+    "description": "Quyết dịnh phê duyệt các chức danh trong PTT, PCT và GPLV trong KGHC",
+    "driveLink": "https://drive.google.com/file/d/1-sa2Bge6EzdqQIgopc-xZBXC-u_pKyns/view?usp=sharing",
+    "updated": "2025-28-11"
+  },
+   {
+    "id": "k002",
+    "title": "QĐ ban hành sơ đồ vận hành",
+    "category": "CÁC QUYẾT ĐỊNH CỦA DHC",
+    "description": "Quyết định ban hành sơ đồ vận hành",
+    "driveLink": "https://drive.google.com/file/d/1saICW9TIwDkDo8m0jR9qiSMZYuYtuJUV/view?usp=sharing",
+    "updated": "2025-28-11"
   }
 ]
