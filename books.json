@@ -941,16 +941,32 @@
     "title": "Lịch đi ca thay",
     "category": "BIỂU MẪU",
     "description": "Lịch đi ca thay",
-    "driveLink": "https://docs.google.com/document/d/124GgE7ycDRRYnr_LbcZFy8xpihmK6OxV/edit?usp=sharing&ouid=105739751954633723355&rtpof=true&sd=true",
+    "driveLink": "https://docs.google.com/document/d/1gEseaXucxQZCVG4CDALJhaOVTt-UV22Q/edit?usp=sharing&ouid=105739751954633723355&rtpof=true&sd=true",
     "updated": "2022-11-23"
   },
 {
     "id": "h001",
     "title": "Luật điện lực 2024",
     "category": "VĂN BẢN PHÁP LUẬT",
-    "description": "Văn bản pháp luật liên quan đến ngành điện",
+    "description": "Luật điện lực ban hành năm 2024",
     "driveLink": "https://drive.google.com/file/d/196oJLlaqFqqu2og5iIBW5hldF-lA2zRp/view?usp=sharing",
     "updated": "2024-11-30"
+  },
+  {
+    "id": "h002",
+    "title": "Quy chuẩn kỹ thuật Quốc gia về An toàn điện",
+    "category": "VĂN BẢN PHÁP LUẬT",
+    "description": "Quy chuẩn kỹ thuật Quốc gia về An toàn điện",
+    "driveLink": "https://drive.google.com/file/d/1NxZQA9noh3Ub285cS00Lx5AGvFgoY4Nl/view?usp=sharing",
+    "updated": "2025-06-22"
+  },
+  {
+    "id": "h003",
+    "title": "Quy chuẩn kỹ thuật Quốc gia về Kỹ thuật điện-Hệ thống lưới điện",
+    "category": "VĂN BẢN PHÁP LUẬT",
+    "description": "Quy chuẩn kỹ thuật Quốc gia về Kỹ thuật điện-Hệ thống lưới điện",
+    "driveLink": "https://drive.google.com/file/d/1sYcu6nmr0wsgt0mNId205j9cPW0DQD1A/view?usp=sharing",
+    "updated": "2025-11-11"
   },
 {
     "id": "i001",
