@@ -673,9 +673,25 @@
   },
 {
     "id": "c053",
+    "title": "Sơ đồ nguyên lý HT WAN",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Sơ đồ nguyên lý hệ thống WAN",
+    "driveLink": "https://drive.google.com/file/d/1ZFBdXVrXmzL8F4wgNFxpV66QHDbZZDxz/view?usp=sharing",
+    "updated": "2026-01-15"
+  },
+  {
+    "id": "c054",
+    "title": "Sơ đồ nguyên lý HT SCADA",
+    "category": "SƠ ĐỒ VẬN HÀNH",
+    "description": "Sơ đồ nguyên lý hệ thống SCADA NMTĐ Đakđrinh",
+    "driveLink": "https://drive.google.com/file/d/1SosMKn8_wcFmjufQXTvnK6r506aIUMnf/view?usp=sharing",
+    "updated": "2026-01-15"
+  },
+  {
+    "id": "c055",
     "title": "Quyết định ban hành sơ đồ vận hành",
     "category": "SƠ ĐỒ VẬN HÀNH",
-    "description": "Quyết định ban hành các sơ đồ vận hành NMTĐ Đakđrinh.",
+    "description": "Quyết định ban hành các sơ đồ vận hành NMTĐ Đakđrinh",
     "driveLink": "https://drive.google.com/file/d/1MXTXgEmcpy-6Z2-xbx4gclAbN56DZvHy/view?usp=sharing",
     "updated": "2026-01-15"
   },
