@@ -146,6 +146,15 @@
     padding: 4px 4px 18px;
     min-height: unset;
   }
+  .shelf::after{
+    content:"";
+    display:block;
+    margin-top: 14px;
+    height: 12px;
+    background: linear-gradient(180deg, #8a5a34 0%, #6b4423 60%, #4a2e17 100%);
+    border-radius: 4px;
+    box-shadow: 0 8px 18px rgba(0,0,0,.45), inset 0 1px 0 rgba(255,255,255,.10);
+  }
   .shelf-cols{
     column-width: 230px;
     column-gap: 20px;
@@ -166,7 +175,7 @@
   .book:hover{ transform: translateX(4px); box-shadow: inset 0 3px 0 rgba(255,255,255,.2), inset 0 -5px 10px rgba(0,0,0,.28), 0 8px 16px rgba(0,0,0,.35); }
   .book:focus-visible{ outline: 2px solid var(--teal); outline-offset:3px; }
   .book .spine-title{
-    font-family:'Arial', sans-serif; font-size:16px; font-weight:600;
+    font-family:'Arial', sans-serif; font-size:14.5px; font-weight:600;
     color: rgba(10,14,22,.88); letter-spacing:.01em; line-height:1.25;
     overflow:hidden; text-overflow:ellipsis;
     white-space:nowrap; flex:1 1 auto;
@@ -234,6 +243,7 @@
   }
   .modal-close:hover{ color:var(--text); border-color: var(--teal); }
   .modal-body{ display:grid; grid-template-columns: 1.3fr 1fr; }
+  @media (min-width: 640px){ .book .spine-title{ font-size: 13.5px; } }
   @media (max-width: 720px){ .modal-body{ grid-template-columns: 1fr; } }
 
   @media (max-width: 480px){
